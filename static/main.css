@@ -1,0 +1,24 @@
+body{
+    background-image: url("/static/images/checkflag.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Skia';
+    background-color: black;
+}
+
+h1{
+    font-family: 'Copperplate';
+    color: rgb(229, 199, 78);
+    text-shadow: 2px 2px 3px rgb(33, 56, 79);
+    
+    
+}
+#searchf1{
+    font-family: 'Skia';
+    font-weight: 500;
+    background-color: rgb(247, 233, 142);
+    border: solid 3px black;
+    padding: 15px;
+}
+
